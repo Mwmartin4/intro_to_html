@@ -32,7 +32,7 @@ main img {
 }
 
 nav {
-    background-color:#050706;
+    background-color:#050505;
     text-align: center;
     padding: 5px;
     
@@ -50,7 +50,7 @@ nav a:hover {
 }
 
 footer {
-    background-color:#050706;
+    background-color:#FBF9FC;
     text-align: center;
     padding: 40px 0;
 

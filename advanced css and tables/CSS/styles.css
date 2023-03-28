@@ -11,6 +11,7 @@ header img {
 
 html {
     background-color:#0D0D0D;
+    
 }
 
 h1,
@@ -21,6 +22,7 @@ h3
  font: 1.2em "Fira Sans", sans-serif;
  text-align: center;
  border: #F0EFED 2px solid;
+
 }
 
 
@@ -42,8 +44,9 @@ aside {
 }
 
 img {
-    width: 20%;
+    width: 100%;
     margin: 0 auto;
+    display: block;
     
     
 }
@@ -57,7 +60,7 @@ a {
 }
 footer {
     color: #208FBD;
-    text-align: center;
+    text-align:center
 }
 
 nav {
@@ -95,11 +98,11 @@ main{
 }
 section,
 aside{
-    border: #F0EFED 2px solid;
+    border: #208FBD 2px solid;
     margin: 20px;
     padding: 20px;
     border-style: groove;
-    border-radius: 6px;
+    border-radius: 5px;
     
 }
 
@@ -110,13 +113,50 @@ aside{
     width: 10%;
 }
 
+.single_page {
+        width: 50%;
+}
+
+#main_img_resize {
+                width: 100;
+}
+
 #lower_area{
     display: flex;
 }
 
 .col{
-    border: #F0EFED 2px solid;
-    margin: 10px;
-    padding: 10px;
+    border: 2px solid #F0EFED;
+    margin: 20px;
+    padding: 20px;
     border-radius: 10px;
+}
+
+footer{
+    background-color: #208FBD;
+    text-align: left;
+    padding: 40px 0;
+    color: #000000;
+    font-weight: bolder;
+}
+
+.button {
+    display: block;
+    width: 100px;
+    height: 25px;
+    line-height: 25px;
+    background-color: #F0EFED;
+    color: #0D0D0D;
+    text-decoration: #d6d6d6;
+    text-align:center;
+    padding: 12px;
+    margin: 12px;
+    border: 4px solid #979393;
+    border-radius: 12px;
+    border-style: groove;
+}
+
+.button:hover {
+        background: #208FBD;
+        border-color: #000000;
 }

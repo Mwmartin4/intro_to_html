@@ -166,14 +166,14 @@ footer {
 table {
     border-color: #ffffff;
     border-style: groove;
-    padding: 15x;
+    padding: 15px;
     margin: 10px;
     text-align: center;
     
 }
 
 tr,td {
-    width: 100% auto;
+    width: 100%;
     border: 1px solid #208FBD;
     padding: 15px;
     margin: 15px;

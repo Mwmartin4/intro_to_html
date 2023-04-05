@@ -3,7 +3,7 @@ body {
 }
 
 header img {
-  width: 80%;
+  width: 50%;
 }
 
 img {
@@ -66,14 +66,15 @@ nav li a {
 
 nav li a:hover {
   display: block;
-  height: 40px;
-  line-height: 40px;
-  background-color: #208fbd;
-  color: #f0efed;
+  height: 25px;
+  line-height: 25px;
+  background-color:#f0efed;
+  color:#1f2373;
   text-decoration: none;
-  font: 1.6em sans-serif;
+  font: 1.0em sans-serif;
   padding: 5px 0;
-  border-color: #000000;
+  border-color: #3b3636;
+  border-width: 20px;
 }
 
 main {

@@ -21,15 +21,13 @@ img {
 h1,
 h2,
 h3 {
-  color: #000000;
+  color: #6e6d6d;
   text-align: center;
   border: #888585 2px solid;
   font-family: 'Monoton', cursive;
   font-weight:lighter;
   font-size: larger;
   border-width: 1px;
-  text-shadow: #969696;
-  
 }
 
 h4 {
@@ -129,11 +127,11 @@ footer {
 }
 
 p {
-  color: #000000;
+  color: #cacaca;
 }
 
 aside {
-  color: #000000;
+  color: #bdbdbd;
 }
 
 table {

@@ -21,7 +21,7 @@ img {
 h1,
 h2,
 h3 {
-  color: #ffffff;
+  color: #4d4b4b;
   text-align: center;
   border: #888585 2px solid;
   font-family: 'Monoton', cursive;
@@ -46,7 +46,7 @@ nav {
   background-color: #000000;
   text-decoration: none;
   margin: 10px;
-  color: #868686;
+  color: #585656;
   text-align: center;
 }
 
@@ -71,6 +71,8 @@ nav li a {
   border-style: groove;
   border-radius: 4px;
   padding: 8px 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 nav li a:hover {
@@ -119,6 +121,8 @@ footer {
   border: 4px solid #979393;
   border-radius: 25px;
   border-style: groove;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .button:hover {
@@ -127,7 +131,7 @@ footer {
 }
 
 p {
-  color: #dadada;
+  color: #525151;
 }
 
 aside {

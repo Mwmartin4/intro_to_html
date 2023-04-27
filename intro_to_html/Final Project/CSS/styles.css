@@ -21,7 +21,7 @@ img {
 h1,
 h2,
 h3 {
-  color: #4d4b4b;
+  color: #000000;
   text-align: center;
   border: #888585 2px solid;
   font-family: 'Monoton', cursive;
@@ -46,7 +46,7 @@ nav {
   background-color: #000000;
   text-decoration: none;
   margin: 10px;
-  color: #585656;
+  color: #1d1c1c;
   text-align: center;
 }
 
@@ -63,7 +63,7 @@ nav li a {
   display: block;
   height: 40px;
   background-color: #f0efed;
-  color: #555555;
+  color: #000000;
   line-height: 40px;
   text-decoration: none;
   font-size: larger;
@@ -102,7 +102,7 @@ main img {
 footer {
   background-color: #ffffff;
   text-align: center;
-  color: #696969;
+  color: #000000;
   font-weight: bold;
   padding: 40px 0;
 }
@@ -113,7 +113,7 @@ footer {
   height: 15px;
   line-height: 15px;
   background-color: #f0efed;
-  color: #808080;
+  color: #000000;
   text-decoration: #d6d6d6;
   text-align: center;
   padding: 8px;
@@ -131,7 +131,7 @@ footer {
 }
 
 p {
-  color: #525151;
+  color: #000000;
 }
 
 aside {

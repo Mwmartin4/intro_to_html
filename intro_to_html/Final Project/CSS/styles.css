@@ -135,7 +135,7 @@ p {
 }
 
 aside {
-  color: #bdbdbd;
+  color: #000000;
 }
 
 table {
@@ -200,6 +200,8 @@ tr{
     background-color: #000000;
     border: 10px solid #777474;
     display: block; margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   section,
@@ -228,7 +230,7 @@ tr{
     margin: 20px auto;
   }
   nav li a {
-    background-color: #000000;
+    background-color: #ffffff;
     border: 0;
   }
 
